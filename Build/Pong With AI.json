@@ -1,7 +1,7 @@
 {
 "companyName": "DefaultCompany",
 "productName": "Sus Pong",
-"productVersion": "0.1",
+"productVersion": "0.2",
 "dataUrl": "Pong With AI.data.unityweb",
 "wasmCodeUrl": "Pong With AI.wasm.code.unityweb",
 "wasmFrameworkUrl": "Pong With AI.wasm.framework.unityweb",
