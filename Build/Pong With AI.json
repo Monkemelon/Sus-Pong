@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Sus Pong",
+"productVersion": "0.1",
+"dataUrl": "Pong With AI.data.unityweb",
+"wasmCodeUrl": "Pong With AI.wasm.code.unityweb",
+"wasmFrameworkUrl": "Pong With AI.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.9f1"
+}
